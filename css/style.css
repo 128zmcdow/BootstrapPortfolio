@@ -26,3 +26,11 @@ body{
     background: #22C1C3;
     background: linear-gradient(0deg, rgba(34, 193, 195, 1) 0%, rgba(255, 174, 0, 1) 100%);
 }
+
+.accordion-button {
+  color: aqua;
+  background-color: chocolate;
+  --bs-accordion-bg: aqua;
+  --bs-accordion-active-color: aqua;
+  --bs-accordion-active-bg: chocolate;
+}
